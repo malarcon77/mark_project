@@ -1,5 +1,6 @@
 third file created in firstbranch
 
+<<<<<<< HEAD
 
 
 
@@ -12,3 +13,6 @@ edit done in master
 
 edit done in firstbranch
 
+=======
+lskjflsdkj edit done in firstbranch
+>>>>>>> firstbranch
